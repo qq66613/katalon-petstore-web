@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>view-product-poodle-dog-id</name>
+   <tag></tag>
+   <elementGuidId>dabdcbf9-c253-4eb7-9610-9cb518f56a2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//td[normalize-space()='K9-PO-02'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[normalize-space()='K9-PO-02'])[1]</value>
+      <webElementGuid>83766f44-f388-400c-8227-294d4f84536e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

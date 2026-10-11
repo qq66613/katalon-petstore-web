@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkout-qty</name>
+   <tag></tag>
+   <elementGuidId>1918f354-9434-4898-8427-8abae30ece7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='Catalog']/table/tbody/tr[26]/td/table/tbody/tr[2]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='Catalog']/table/tbody/tr[26]/td/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>1c87c25c-c616-4ebf-8669-a8493cc8475e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

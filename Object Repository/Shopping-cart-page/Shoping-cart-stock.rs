@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-cart-stock</name>
+   <tag></tag>
+   <elementGuidId>283f72ae-f444-4847-9437-bbf93f3021fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//td[normalize-space()='true'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[normalize-space()='true'])[1]</value>
+      <webElementGuid>cfab1b04-396f-428c-8e60-0d6d9b7622be</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List-Price-1-Poodle-dog</name>
+   <tag></tag>
+   <elementGuidId>788c35ad-043b-45f5-869c-1d8c5354cd2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//td[normalize-space()='$18.50'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[normalize-space()='$18.50'])[1]</value>
+      <webElementGuid>a2c4f76b-de34-4ada-90b3-3df8a4df87c4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-cart-sub-total</name>
+   <tag></tag>
+   <elementGuidId>855c9f8d-5977-4e56-be74-8235d30f1bed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='Cart']/form/table/tbody/tr[3]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='Cart']/form/table/tbody/tr[3]/td</value>
+      <webElementGuid>17c65b54-50bf-4fe0-b3b5-313f698b3ed3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

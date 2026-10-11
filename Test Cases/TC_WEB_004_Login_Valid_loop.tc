@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_WEB_004_Login_Valid_loop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e640885-5ac4-4f9b-b9d2-dcdbf69da552</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>caf73979-238c-4fe6-9680-5a594e5d71c6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b779a68-960e-4e1c-b34f-21ff7e1c40e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['Herman_123', 'Lenglet_009', 'Ahmad_754']</defaultValue>
+      <description></description>
+      <id>caf73979-238c-4fe6-9680-5a594e5d71c6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>['Godless*555', 'Godless*454', 'Godless++123']</defaultValue>
+      <description></description>
+      <id>0b779a68-960e-4e1c-b34f-21ff7e1c40e3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

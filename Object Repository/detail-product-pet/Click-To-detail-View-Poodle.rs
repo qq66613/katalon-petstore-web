@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click-To-detail-View-Poodle</name>
+   <tag></tag>
+   <elementGuidId>7fbd7835-763e-4bd3-8b09-7a0011fd1da6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[normalize-space()='EST-8'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[normalize-space()='EST-8'])[1]</value>
+      <webElementGuid>36f650a0-ca99-4675-a0f6-9fa878e8ec47</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

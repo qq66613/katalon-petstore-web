@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify-birds</name>
+   <tag></tag>
+   <elementGuidId>43b8e48f-6415-46c9-85ca-3814f0b0a091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h2[normalize-space()='Birds'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h2[normalize-space()='Birds'])[1]</value>
+      <webElementGuid>8110a5ab-9954-46f2-b0fe-4d2801850b97</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

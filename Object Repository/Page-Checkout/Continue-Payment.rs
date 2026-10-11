@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Continue-Payment</name>
+   <tag></tag>
+   <elementGuidId>82283816-e409-4a8b-a62a-7a5bca4483f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@name='newOrder'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@name='newOrder'])[1]</value>
+      <webElementGuid>83d42809-6e13-4214-b16e-ba6d1826a6ff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

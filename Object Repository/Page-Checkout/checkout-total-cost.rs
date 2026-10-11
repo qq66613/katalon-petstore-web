@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkout-total-cost</name>
+   <tag></tag>
+   <elementGuidId>c6bdc06c-04d2-40a7-af96-1268d4230625</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='Catalog']/table/tbody/tr[26]/td/table/tbody/tr[2]/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='Catalog']/table/tbody/tr[26]/td/table/tbody/tr[2]/td[5]</value>
+      <webElementGuid>575f7b94-c017-4329-8c1d-f16153dfab83</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

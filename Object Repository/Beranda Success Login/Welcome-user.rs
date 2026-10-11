@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Welcome-user</name>
+   <tag></tag>
+   <elementGuidId>9cea2dfa-7952-45f5-83ce-6d54baba009b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='WelcomeContent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='WelcomeContent']</value>
+      <webElementGuid>43914efc-2f5a-47de-9348-520199ff843e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

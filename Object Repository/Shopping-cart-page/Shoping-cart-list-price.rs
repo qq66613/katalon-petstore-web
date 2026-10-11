@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-cart-list-price</name>
+   <tag></tag>
+   <elementGuidId>797584eb-f55a-4c78-85de-8ca041107987</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//td[contains(text(),'$18.50')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[contains(text(),'$18.50')])[1]</value>
+      <webElementGuid>0f53d09a-4dbf-4469-81a9-0f0691d18ce4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

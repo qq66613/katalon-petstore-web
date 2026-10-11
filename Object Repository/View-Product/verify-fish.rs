@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify-fish</name>
+   <tag></tag>
+   <elementGuidId>77a725fb-5900-4ef3-b0cc-a92545069e35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h2[normalize-space()='Fish'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h2[normalize-space()='Fish'])[1]</value>
+      <webElementGuid>24a754d9-a434-4c10-ac7a-757f54d3b64a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

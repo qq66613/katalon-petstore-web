@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-cart-product-id</name>
+   <tag></tag>
+   <elementGuidId>6624ffbc-9c6e-43d6-a452-9383a960ad8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//td[normalize-space()='K9-PO-02'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[normalize-space()='K9-PO-02'])[1]</value>
+      <webElementGuid>1af7dea3-f85f-4f81-a56c-a273eaf2a6f7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

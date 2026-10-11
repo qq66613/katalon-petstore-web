@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-Input-qty</name>
+   <tag></tag>
+   <elementGuidId>61c33fcb-ee59-40b5-bc61-bc2d906f023f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@name='EST-8'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@name='EST-8'])[1]</value>
+      <webElementGuid>0dba25a6-67b9-41bc-91df-d0df9762a185</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

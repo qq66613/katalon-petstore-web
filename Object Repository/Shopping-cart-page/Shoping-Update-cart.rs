@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-Update-cart</name>
+   <tag></tag>
+   <elementGuidId>e5cfcc38-60cb-4e62-80bf-486b8be680b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@name='updateCartQuantities'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@name='updateCartQuantities'])[1]</value>
+      <webElementGuid>367e872d-855d-456b-9b85-fd4622e8b123</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

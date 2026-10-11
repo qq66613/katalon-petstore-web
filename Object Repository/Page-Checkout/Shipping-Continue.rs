@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shipping-Continue</name>
+   <tag></tag>
+   <elementGuidId>f99143f9-5a17-4270-a68e-36fd61ab613d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[normalize-space()='Confirm'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[normalize-space()='Confirm'])[1]</value>
+      <webElementGuid>0cf10cba-b2eb-467d-aed0-d42eada383bd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

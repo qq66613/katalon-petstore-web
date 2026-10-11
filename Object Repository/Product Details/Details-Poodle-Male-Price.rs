@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Details-Poodle-Male-Price</name>
+   <tag></tag>
+   <elementGuidId>72f65ae7-3991-4318-ad4f-228e602f2ea3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//td[normalize-space()='$18.50'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[normalize-space()='$18.50'])[1]</value>
+      <webElementGuid>624b5bd2-0ae9-4bac-ba24-cf767401c0d3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-cart-remove</name>
+   <tag></tag>
+   <elementGuidId>a0fa2a95-f791-46a7-b6aa-abc5977a298e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[normalize-space()='Remove'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[normalize-space()='Remove'])[1]</value>
+      <webElementGuid>b5c4eb65-4cb5-4bca-838f-f66803d033a5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

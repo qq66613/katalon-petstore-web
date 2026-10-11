@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bird-view</name>
+   <tag></tag>
+   <elementGuidId>0ee3b011-a943-45ba-a647-bf0f298d3e24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[@src='../images/birds_icon.gif'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[@src='../images/birds_icon.gif'])[1]</value>
+      <webElementGuid>cb92fc04-7c1a-468c-b56b-6f642986f4ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

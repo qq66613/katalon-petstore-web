@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fish-view</name>
+   <tag></tag>
+   <elementGuidId>96e5cb63-a479-414c-a65b-a163cb4d8b8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[@src='../images/fish_icon.gif'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[@src='../images/fish_icon.gif'])[1]</value>
+      <webElementGuid>22c9399f-1e3f-420c-a12e-0c0412d88590</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

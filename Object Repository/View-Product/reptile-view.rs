@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>reptile-view</name>
+   <tag></tag>
+   <elementGuidId>90724849-258e-42d1-b1da-97ced1919e87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[@src='../images/reptiles_icon.gif'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[@src='../images/reptiles_icon.gif'])[1]</value>
+      <webElementGuid>c8ea4ca7-1225-45e2-a354-60553fba3e14</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

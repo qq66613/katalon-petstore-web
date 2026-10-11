@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shoping-cart-total-cost</name>
+   <tag></tag>
+   <elementGuidId>6e317954-7b5b-461b-84eb-ef87be041028</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='Cart']/form/table/tbody/tr[2]/td[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='Cart']/form/table/tbody/tr[2]/td[7]</value>
+      <webElementGuid>9628604d-15b9-4c64-a495-778f765019c9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

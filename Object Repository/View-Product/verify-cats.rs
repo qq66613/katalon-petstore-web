@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify-cats</name>
+   <tag></tag>
+   <elementGuidId>0f98dd00-5aee-4f5e-ac0c-5992a92bee49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h2[normalize-space()='Cats'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h2[normalize-space()='Cats'])[1]</value>
+      <webElementGuid>6988af98-5cd5-4c4e-b6ee-c69594fed643</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify-reptils</name>
+   <tag></tag>
+   <elementGuidId>bd076551-c1cc-4f5c-bdad-9dcbf5dbd3ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h2[normalize-space()='Reptiles'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h2[normalize-space()='Reptiles'])[1]</value>
+      <webElementGuid>ec32249e-6add-4724-afe7-48d80b66a189</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

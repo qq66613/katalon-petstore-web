@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dogs-view</name>
+   <tag></tag>
+   <elementGuidId>bec32938-f0f7-4995-ab6a-2621abab684c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[@src='../images/dogs_icon.gif'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[@src='../images/dogs_icon.gif'])[1]</value>
+      <webElementGuid>f741e9bc-15bc-4ac7-8618-e4c72c8f410f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

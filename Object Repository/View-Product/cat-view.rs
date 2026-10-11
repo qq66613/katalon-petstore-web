@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cat-view</name>
+   <tag></tag>
+   <elementGuidId>6377842e-6e78-414f-a4c5-85218432b331</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[@src='../images/cats_icon.gif'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[@src='../images/cats_icon.gif'])[1]</value>
+      <webElementGuid>90c0935e-fc7a-4370-9f17-ee8fcc3a5cbf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

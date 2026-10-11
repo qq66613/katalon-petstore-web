@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify-dogs</name>
+   <tag></tag>
+   <elementGuidId>6bb518fa-eb1d-4f14-a0ca-b619b61e79c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h2[normalize-space()='Dogs'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h2[normalize-space()='Dogs'])[1]</value>
+      <webElementGuid>dc32528b-2f5b-4fbe-8f4a-d984561fcc4b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

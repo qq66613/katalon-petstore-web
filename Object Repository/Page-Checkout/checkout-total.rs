@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkout-total</name>
+   <tag></tag>
+   <elementGuidId>bebeffac-6968-4baf-b629-cc4498e4c628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='Catalog']/table/tbody/tr[26]/td/table/tbody/tr[3]/th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='Catalog']/table/tbody/tr[26]/td/table/tbody/tr[3]/th</value>
+      <webElementGuid>95b1b759-3a57-47da-8531-cf3e015cb0ec</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
